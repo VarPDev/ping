@@ -1,2 +1,1 @@
-# pong
-A simple game
+# pongpt2
